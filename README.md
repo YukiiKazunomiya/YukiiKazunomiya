@@ -60,7 +60,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
   </div>
 <br>
 <p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
+most used s-s-sociaw things >~< xixixi</p>
 <p align="center"><a href="https://twitter.com/Yukii" target="_blank"><img src="https://img.shields.io/badge/YukiiKazunomiya%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/whoyukiel" target="_blank"><img src="https://img.shields.io/badge/Yukiel%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 </div>
 <br>
