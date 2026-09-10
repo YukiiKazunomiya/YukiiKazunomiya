@@ -32,7 +32,7 @@
 <b>Gender:</b> she/her/Female
 </li>
 <li>
-<b>Hobbys:</b> Dev Ops, Writer, Sysadmin
+<b>Hobbys:</b>Light Novel, Manga, & Manhwa Reader
 </li>
 <br><br><br><br>
 </div>
