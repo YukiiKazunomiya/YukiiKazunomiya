@@ -32,7 +32,7 @@
 <b>Gender:</b> she/her/Female
 </li>
 <li>
-<b>Hobbys:</b>Light Novel, Manga, & Manhwa Reader
+<b>Hobbys:</b> Light Novel, Manga, & Manhwa Reader
 </li>
 <br><br><br><br>
 </div>
