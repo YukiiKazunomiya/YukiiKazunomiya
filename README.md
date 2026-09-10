@@ -31,9 +31,6 @@
 <b>Gender:</b> she/her/Female
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirl.ing
-</li>
-<li>
 <b>Hobbys:</b> Dev Ops, Writer, Sysadmin
 </li>
 <br><br><br><br>
