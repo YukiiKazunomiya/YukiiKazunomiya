@@ -63,12 +63,4 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 
   <br>
-
-  <!-- Links (Bisa diklik) -->
-  <a href="MASUKAN_URL_WEBSITE_DISINI">
-    <img src="https://img.shields.io/badge/Live_Website-%23121011.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="MASUKAN_URL_API_DISINI">
-    <img src="https://img.shields.io/badge/API_Endpoint-005571?style=for-the-badge&logo=postman&logoColor=white" alt="API"/>
-  </a>
 </p>
